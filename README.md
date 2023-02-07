@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JMDev2
 - 👀 I’m interested in Android Develoment, Java and DevOps Engineering
-- 🌱 I’m currently learning Node Js
+
 
 
 <!---
