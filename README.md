@@ -13,3 +13,10 @@ I am Mwangi Joseph Maina. I am an android Developer. I attended moringa school b
 
 Other Skills:
 Communication, Teamwork, Leadership, Problem solving, Time Management.
+
+I previosly have worked in different companies as: Software Support Engineer, System admin and network Engineer. Thats is Android254 and Atlassian.
+
+I am an active members of developer communities where i attend regularly to broaden my knowldge and learn from the Tech experts.
+
+How to reach out to me: Email: mainajoseph964@gmail.com
+                        Phone: 0700809279.
